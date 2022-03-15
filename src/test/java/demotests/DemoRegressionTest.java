@@ -11,9 +11,7 @@ public class DemoRegressionTest
 		System.out.println(" ==================  ");
 		System.out.println("  This is regression");
 		System.out.println(" ==================  ");
-		System.out.println(" ==================  ");
-		System.out.println("  This is regression");
-		System.out.println(" ==================  ");
+		
 
 	}
 }
