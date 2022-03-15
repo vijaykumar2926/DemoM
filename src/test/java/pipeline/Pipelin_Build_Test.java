@@ -2,7 +2,7 @@ package pipeline;
 
 import org.testng.annotations.Test;
 
-public class BuildTest 
+public class Pipelin_Build_Test 
 {
 	@Test
 	public void buildtest()
